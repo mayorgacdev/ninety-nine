@@ -109,3 +109,7 @@ We believe that technology can be a powerful tool for the Kingdom. If you want t
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+## License
+
+Distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). See `LICENSE` for more information.
