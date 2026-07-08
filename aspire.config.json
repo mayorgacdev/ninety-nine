@@ -1,0 +1,6 @@
+{
+  "appHost": {
+    "path": "NinetyNine.AppHost/NinetyNine.AppHost.csproj"
+  },
+  "channel": "stable"
+}

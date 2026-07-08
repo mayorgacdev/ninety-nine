@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NinetyNine.AppHost/NinetyNine.AppHost.csproj" />
+  <Project Path="NinetyNine.ServiceDefaults/NinetyNine.ServiceDefaults.csproj" />
+</Solution>
