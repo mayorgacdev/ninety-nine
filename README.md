@@ -1,5 +1,12 @@
 # NinetyNine -- Spiritual Health & Church CRM
 
+> **Project status: initial scaffold / design proposal.**
+> The published code currently contains an Aspire AppHost and ServiceDefaults. The AppHost does not register application resources, and its referenced `NinetyNine.ApiService` project is not present in this branch.
+> The features, architecture, security controls and deployment flows described below are the intended design, not completed functionality. The setup and test commands below are targets for the future implementation.
+>
+> **First milestone:** add the API project, wire the AppHost and verify a minimal visitor-registration flow before expanding the feature set.
+
+
 [![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
 [![Aspire](https://img.shields.io/badge/Aspire-13.4-512BD4?logo=dotnet&logoColor=white)](https://aspire.dev)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
